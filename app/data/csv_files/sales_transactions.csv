@@ -1,0 +1,501 @@
+transaction_id,customer_id,transaction_date,product_category,transaction_amount,payment_method,store_location,items_purchased
+1,94,2025-04-06,Clothing,130.37,Gift Card,Houston,8
+2,74,2025-01-30,Books,258.89,Debit Card,Los Angeles,7
+3,55,2024-12-13,Electronics,340.81,Cash,New York,7
+4,91,2025-04-15,Home Goods,124.89,Debit Card,Chicago,6
+5,59,2025-01-13,Sports,35.55,Cash,San Antonio,5
+6,70,2025-01-13,Sports,367.71,PayPal,New York,4
+7,34,2025-04-19,Food,332.35,PayPal,New York,6
+8,30,2025-03-31,Electronics,202.99,PayPal,Houston,5
+9,41,2025-03-17,Home Goods,467.7,Cash,San Antonio,8
+10,29,2025-03-17,Books,392.01,Cash,Chicago,8
+11,35,2024-11-09,Beauty,289.31,Cash,Phoenix,2
+12,42,2025-03-24,Food,227.93,Credit Card,Houston,3
+13,12,2025-02-18,Food,296.47,Apple Pay,San Antonio,10
+14,72,2024-11-18,Sports,450.97,PayPal,Houston,5
+15,96,2025-02-20,Beauty,246.88,Apple Pay,San Antonio,5
+16,9,2025-03-26,Food,479.79,Apple Pay,San Antonio,6
+17,50,2025-05-01,Clothing,249.68,Cash,Chicago,6
+18,5,2025-01-12,Electronics,254.97,Debit Card,New York,4
+19,65,2024-11-26,Beauty,297.5,PayPal,Houston,7
+20,2,2024-12-19,Clothing,133.34,Credit Card,Los Angeles,7
+21,17,2025-01-09,Sports,190.41,Credit Card,New York,7
+22,36,2025-02-10,Clothing,382.44,PayPal,San Antonio,3
+23,33,2025-01-21,Food,406.04,Gift Card,New York,5
+24,39,2025-01-10,Food,307.69,Gift Card,Chicago,2
+25,40,2025-01-23,Electronics,92.7,PayPal,Houston,10
+26,7,2025-02-22,Books,88.57,Credit Card,Phoenix,6
+27,76,2024-11-16,Clothing,76.77,Gift Card,New York,6
+28,56,2025-01-28,Beauty,484.46,Gift Card,Los Angeles,3
+29,97,2025-03-05,Beauty,416.9,PayPal,Houston,2
+30,14,2025-01-19,Books,153.69,Cash,San Antonio,6
+31,68,2024-11-12,Beauty,343.71,Debit Card,Houston,9
+32,1,2025-01-02,Books,75.25,Debit Card,Phoenix,7
+33,30,2024-11-29,Home Goods,132.56,Apple Pay,San Antonio,5
+34,62,2024-12-26,Books,155.23,PayPal,San Antonio,8
+35,69,2025-04-28,Home Goods,310.87,Debit Card,Phoenix,2
+36,30,2025-03-10,Books,399.88,PayPal,Philadelphia,2
+37,44,2025-03-10,Beauty,136.3,Debit Card,San Antonio,9
+38,93,2025-03-06,Food,293.34,PayPal,Philadelphia,4
+39,64,2025-02-18,Sports,356.08,Apple Pay,Los Angeles,6
+40,33,2025-04-21,Home Goods,316.88,Cash,New York,7
+41,76,2024-12-27,Home Goods,91.83,Gift Card,Philadelphia,10
+42,100,2024-12-11,Food,482.13,Debit Card,Philadelphia,3
+43,76,2024-11-13,Food,387.07,Gift Card,Los Angeles,9
+44,4,2025-04-25,Home Goods,474.07,Cash,Houston,3
+45,14,2025-03-16,Food,264.52,Cash,Houston,2
+46,19,2025-03-16,Home Goods,489.11,Credit Card,Phoenix,2
+47,24,2024-12-12,Electronics,414.98,Apple Pay,Philadelphia,5
+48,56,2025-02-05,Clothing,341.79,PayPal,Chicago,3
+49,76,2025-04-18,Beauty,172.42,Gift Card,San Antonio,4
+50,18,2024-12-25,Sports,494.54,Gift Card,Houston,8
+51,33,2025-04-14,Sports,151.12,Apple Pay,Los Angeles,10
+52,38,2025-03-17,Food,19.52,PayPal,San Antonio,9
+53,6,2025-03-16,Home Goods,16.28,Debit Card,New York,10
+54,77,2024-11-08,Clothing,347.96,Cash,San Antonio,9
+55,74,2024-12-28,Clothing,244.08,Credit Card,Philadelphia,1
+56,48,2024-11-16,Home Goods,280.84,Cash,San Antonio,4
+57,89,2025-03-18,Beauty,221.1,Gift Card,Philadelphia,10
+58,68,2025-04-22,Books,247.9,Credit Card,Phoenix,8
+59,72,2025-01-14,Clothing,316.9,PayPal,Houston,9
+60,56,2025-04-15,Books,398.23,Gift Card,Philadelphia,7
+61,51,2025-04-01,Food,316.22,Gift Card,Phoenix,6
+62,66,2025-03-05,Books,80.09,Credit Card,San Antonio,4
+63,20,2025-04-18,Home Goods,27.74,Cash,New York,9
+64,12,2025-04-15,Electronics,100.77,Apple Pay,Chicago,7
+65,93,2024-12-15,Books,401.04,PayPal,Phoenix,1
+66,56,2024-11-21,Beauty,235.22,PayPal,Phoenix,5
+67,46,2025-03-03,Beauty,420.44,Apple Pay,Los Angeles,10
+68,59,2025-02-16,Sports,239.09,Cash,Chicago,6
+69,26,2025-04-25,Electronics,89.11,Credit Card,New York,4
+70,10,2025-02-22,Beauty,349.94,Gift Card,Chicago,2
+71,58,2025-04-20,Beauty,34.36,Apple Pay,Phoenix,1
+72,7,2025-03-01,Sports,173.88,Debit Card,San Antonio,6
+73,10,2025-02-04,Clothing,273.04,Credit Card,San Antonio,3
+74,41,2025-03-16,Food,287.92,Apple Pay,Philadelphia,5
+75,97,2025-01-06,Beauty,308.93,Credit Card,Philadelphia,1
+76,10,2025-03-04,Clothing,447.29,Cash,Phoenix,8
+77,64,2024-12-24,Books,426.78,Gift Card,Los Angeles,3
+78,10,2025-03-27,Home Goods,89.43,Cash,New York,9
+79,29,2025-04-11,Home Goods,76.33,Gift Card,Houston,5
+80,3,2025-04-25,Books,173.09,Credit Card,Phoenix,8
+81,76,2025-04-01,Clothing,483.97,Gift Card,Philadelphia,1
+82,27,2025-01-28,Sports,298.87,Debit Card,Philadelphia,3
+83,39,2025-01-12,Electronics,294.25,Cash,Chicago,10
+84,48,2025-04-15,Clothing,146.68,Apple Pay,Philadelphia,2
+85,77,2025-01-30,Books,449.32,Apple Pay,New York,5
+86,88,2025-01-27,Books,43.1,PayPal,New York,1
+87,25,2024-11-24,Food,378.38,PayPal,Phoenix,2
+88,41,2025-02-16,Clothing,435.01,Gift Card,Phoenix,9
+89,64,2024-12-22,Electronics,260.0,Apple Pay,Chicago,3
+90,62,2024-11-24,Books,235.93,Apple Pay,Los Angeles,2
+91,85,2025-03-17,Electronics,412.64,Debit Card,New York,10
+92,62,2025-03-19,Food,310.31,Cash,Phoenix,3
+93,89,2025-03-12,Beauty,185.37,Debit Card,San Antonio,5
+94,97,2025-03-07,Clothing,73.07,Gift Card,Philadelphia,4
+95,52,2025-02-03,Beauty,103.26,Debit Card,San Antonio,8
+96,47,2024-12-15,Food,47.91,Debit Card,Los Angeles,6
+97,93,2025-01-04,Food,375.55,PayPal,Chicago,5
+98,53,2024-11-21,Clothing,489.71,Cash,New York,3
+99,22,2024-12-04,Food,139.7,Debit Card,San Antonio,7
+100,96,2025-01-20,Home Goods,125.14,Debit Card,New York,8
+101,22,2025-01-14,Home Goods,26.62,Cash,Philadelphia,6
+102,13,2025-01-02,Clothing,35.54,Cash,Chicago,5
+103,68,2024-12-02,Food,232.89,Apple Pay,Houston,2
+104,97,2025-02-03,Electronics,86.91,Cash,Los Angeles,9
+105,48,2025-03-22,Beauty,30.65,Cash,Houston,2
+106,72,2025-03-16,Electronics,18.65,Gift Card,Phoenix,10
+107,78,2024-12-07,Books,478.09,Gift Card,Houston,10
+108,79,2024-12-08,Sports,373.32,Cash,New York,7
+109,99,2025-04-20,Clothing,119.17,Credit Card,New York,10
+110,57,2025-02-15,Food,139.05,PayPal,San Antonio,8
+111,71,2025-01-20,Home Goods,366.63,Debit Card,San Antonio,4
+112,4,2024-12-05,Electronics,43.54,Apple Pay,San Antonio,10
+113,22,2024-12-15,Clothing,244.77,PayPal,Philadelphia,2
+114,8,2025-03-24,Sports,371.96,Credit Card,Chicago,8
+115,10,2025-01-11,Food,429.64,Apple Pay,Houston,10
+116,47,2025-04-06,Home Goods,334.01,Apple Pay,Philadelphia,7
+117,91,2025-01-05,Food,226.48,Gift Card,New York,9
+118,39,2025-02-10,Beauty,11.83,Apple Pay,Phoenix,8
+119,89,2025-03-18,Beauty,217.32,Apple Pay,New York,8
+120,68,2025-02-19,Beauty,114.21,Credit Card,Philadelphia,9
+121,18,2025-03-15,Food,488.06,Debit Card,San Antonio,2
+122,51,2025-02-13,Books,443.09,Gift Card,New York,4
+123,72,2025-04-18,Home Goods,230.44,Apple Pay,Philadelphia,10
+124,35,2025-01-26,Food,111.72,Apple Pay,Chicago,10
+125,3,2025-02-26,Books,123.46,Debit Card,Chicago,9
+126,34,2025-01-06,Beauty,380.95,Gift Card,New York,8
+127,13,2024-12-21,Books,472.28,PayPal,New York,4
+128,51,2024-11-04,Home Goods,213.82,PayPal,New York,10
+129,15,2025-04-09,Sports,115.63,Apple Pay,Phoenix,5
+130,67,2025-02-02,Electronics,222.64,Credit Card,Chicago,7
+131,94,2024-11-08,Books,240.58,Credit Card,Los Angeles,7
+132,88,2024-11-26,Sports,397.51,Apple Pay,Houston,5
+133,64,2025-01-12,Food,250.94,Apple Pay,Philadelphia,2
+134,76,2024-11-09,Clothing,272.68,Cash,Los Angeles,2
+135,15,2024-11-25,Home Goods,467.86,PayPal,Phoenix,2
+136,34,2025-01-17,Beauty,191.91,Cash,Phoenix,3
+137,94,2024-12-28,Sports,346.36,PayPal,Los Angeles,10
+138,72,2024-11-29,Electronics,266.52,Credit Card,Chicago,1
+139,84,2025-01-15,Beauty,490.61,Debit Card,San Antonio,9
+140,96,2025-04-27,Clothing,41.1,Gift Card,Houston,10
+141,6,2024-11-22,Clothing,406.42,Debit Card,San Antonio,4
+142,80,2025-02-10,Food,279.55,Cash,New York,2
+143,22,2024-12-17,Home Goods,385.59,Apple Pay,Los Angeles,7
+144,18,2025-03-22,Sports,451.73,Cash,Los Angeles,2
+145,14,2025-03-03,Beauty,438.86,Debit Card,Los Angeles,4
+146,65,2024-12-15,Clothing,107.03,PayPal,Phoenix,4
+147,65,2024-12-28,Books,39.66,Cash,Phoenix,8
+148,27,2024-11-14,Home Goods,278.54,Debit Card,Chicago,2
+149,75,2024-12-22,Sports,470.44,Cash,New York,3
+150,81,2025-04-16,Electronics,12.15,Credit Card,Philadelphia,4
+151,85,2024-11-26,Beauty,77.16,Gift Card,New York,2
+152,7,2024-12-30,Clothing,145.31,Credit Card,Philadelphia,3
+153,43,2024-11-05,Sports,24.1,Apple Pay,Chicago,4
+154,33,2025-04-18,Beauty,291.78,Apple Pay,New York,1
+155,55,2025-01-13,Electronics,88.69,Cash,Philadelphia,8
+156,90,2025-01-01,Books,73.4,Credit Card,San Antonio,8
+157,15,2024-12-03,Clothing,303.64,Cash,Philadelphia,9
+158,12,2024-11-28,Sports,470.64,PayPal,Chicago,8
+159,78,2025-02-24,Books,289.63,Credit Card,San Antonio,2
+160,37,2025-01-15,Clothing,56.67,Cash,Chicago,5
+161,34,2025-03-24,Clothing,11.53,Gift Card,Houston,7
+162,93,2024-11-07,Clothing,145.49,Debit Card,Chicago,6
+163,39,2025-01-04,Sports,80.08,Debit Card,Phoenix,2
+164,25,2025-04-27,Sports,119.6,Gift Card,Chicago,8
+165,77,2024-12-10,Books,29.93,Gift Card,Phoenix,8
+166,50,2025-02-01,Clothing,77.42,PayPal,San Antonio,1
+167,47,2025-01-17,Books,413.33,Gift Card,Phoenix,2
+168,32,2024-12-06,Sports,368.06,Gift Card,Houston,7
+169,29,2025-04-29,Beauty,333.73,Debit Card,New York,5
+170,67,2024-12-16,Home Goods,229.41,Apple Pay,Houston,8
+171,26,2025-03-12,Home Goods,422.69,Debit Card,Houston,2
+172,59,2025-02-16,Electronics,33.83,Apple Pay,Los Angeles,3
+173,45,2024-12-04,Food,372.52,Debit Card,San Antonio,3
+174,91,2025-04-23,Food,138.4,Gift Card,Phoenix,2
+175,66,2025-02-03,Food,141.28,Debit Card,Los Angeles,2
+176,68,2025-05-01,Sports,185.05,Debit Card,Los Angeles,10
+177,44,2024-12-25,Electronics,343.5,Cash,San Antonio,6
+178,5,2025-01-15,Sports,217.24,PayPal,Chicago,9
+179,41,2024-12-20,Clothing,294.21,Debit Card,Philadelphia,6
+180,65,2025-03-16,Clothing,231.68,Debit Card,Houston,9
+181,25,2025-03-30,Beauty,208.26,PayPal,Los Angeles,10
+182,60,2025-01-04,Food,81.47,Gift Card,Phoenix,1
+183,16,2025-01-13,Food,471.33,Apple Pay,Phoenix,2
+184,23,2025-03-29,Sports,451.52,Cash,San Antonio,3
+185,26,2025-02-24,Electronics,198.39,Cash,Philadelphia,4
+186,36,2025-01-24,Home Goods,209.31,Apple Pay,Philadelphia,2
+187,36,2025-04-11,Food,337.56,Debit Card,Philadelphia,8
+188,53,2025-03-23,Electronics,72.78,Gift Card,New York,7
+189,58,2025-03-05,Books,375.09,Credit Card,Houston,8
+190,12,2025-02-03,Home Goods,40.63,Apple Pay,Houston,2
+191,49,2025-04-30,Electronics,167.75,Credit Card,New York,3
+192,54,2025-03-18,Clothing,328.19,Debit Card,San Antonio,4
+193,47,2025-04-29,Food,412.44,Debit Card,Philadelphia,6
+194,96,2025-03-03,Electronics,134.08,Apple Pay,New York,10
+195,16,2025-04-01,Beauty,121.65,Apple Pay,Philadelphia,9
+196,9,2025-02-15,Beauty,47.97,Debit Card,Phoenix,10
+197,14,2024-11-13,Sports,454.28,Cash,San Antonio,8
+198,53,2024-12-20,Books,458.95,Credit Card,Philadelphia,10
+199,58,2025-04-13,Sports,373.28,Cash,Los Angeles,7
+200,15,2025-03-03,Clothing,200.92,Gift Card,Chicago,7
+201,25,2025-01-14,Food,251.95,Gift Card,New York,5
+202,55,2025-01-06,Food,168.97,Apple Pay,Phoenix,6
+203,22,2025-03-04,Electronics,340.84,Apple Pay,Phoenix,5
+204,84,2024-11-16,Sports,51.97,Debit Card,Phoenix,6
+205,86,2025-04-02,Clothing,452.08,Apple Pay,New York,3
+206,96,2024-11-09,Books,91.7,PayPal,Los Angeles,9
+207,70,2025-02-01,Beauty,213.12,Gift Card,Chicago,9
+208,97,2025-01-30,Sports,141.31,Gift Card,Houston,10
+209,88,2024-11-06,Electronics,225.71,Apple Pay,Phoenix,1
+210,72,2024-11-07,Electronics,164.74,PayPal,Chicago,4
+211,18,2025-03-30,Sports,185.97,PayPal,Los Angeles,2
+212,96,2025-02-06,Electronics,449.42,Gift Card,Houston,2
+213,90,2024-11-21,Beauty,34.77,Apple Pay,Philadelphia,9
+214,48,2025-03-19,Food,261.69,Credit Card,Philadelphia,10
+215,39,2025-02-01,Beauty,184.16,Gift Card,Philadelphia,5
+216,73,2024-12-21,Electronics,213.89,Credit Card,New York,7
+217,50,2025-02-15,Sports,141.45,Apple Pay,Los Angeles,5
+218,53,2025-01-11,Beauty,433.22,Apple Pay,San Antonio,4
+219,58,2025-03-27,Sports,143.17,Credit Card,Chicago,6
+220,74,2025-04-27,Home Goods,375.32,Cash,Phoenix,3
+221,94,2025-04-28,Beauty,255.68,Credit Card,Los Angeles,4
+222,99,2025-02-07,Books,34.31,Gift Card,Houston,9
+223,49,2024-11-17,Food,480.3,Apple Pay,Los Angeles,7
+224,78,2025-04-29,Food,395.24,Debit Card,Houston,6
+225,68,2025-04-09,Sports,125.1,Apple Pay,San Antonio,8
+226,68,2025-04-19,Clothing,91.98,Gift Card,Phoenix,7
+227,81,2025-04-06,Clothing,248.93,Gift Card,Philadelphia,10
+228,41,2025-03-06,Food,257.56,Cash,Philadelphia,4
+229,51,2025-02-11,Electronics,330.67,Debit Card,Chicago,1
+230,49,2025-03-23,Books,379.11,PayPal,Phoenix,9
+231,92,2025-01-30,Sports,376.19,Gift Card,Houston,2
+232,75,2025-01-01,Food,402.2,Cash,Philadelphia,6
+233,69,2025-01-18,Beauty,454.37,Apple Pay,Philadelphia,7
+234,10,2025-02-21,Sports,386.89,Gift Card,Chicago,10
+235,17,2025-02-05,Electronics,379.43,Debit Card,Houston,6
+236,71,2025-01-01,Sports,449.36,Apple Pay,Philadelphia,2
+237,7,2024-11-21,Home Goods,177.94,Apple Pay,Phoenix,6
+238,81,2025-01-29,Sports,99.24,Debit Card,New York,7
+239,64,2025-01-16,Food,198.18,Apple Pay,Philadelphia,5
+240,75,2025-01-13,Food,392.77,Apple Pay,Houston,6
+241,79,2024-11-25,Food,53.56,PayPal,Phoenix,1
+242,53,2025-04-14,Clothing,263.2,PayPal,Los Angeles,3
+243,36,2025-02-12,Electronics,107.24,PayPal,Los Angeles,6
+244,43,2025-02-13,Home Goods,427.61,Debit Card,Chicago,1
+245,57,2025-02-20,Sports,454.29,Apple Pay,Los Angeles,9
+246,77,2024-11-17,Electronics,335.66,Credit Card,Chicago,9
+247,100,2025-01-02,Sports,423.74,Gift Card,Phoenix,4
+248,51,2025-04-13,Beauty,22.22,PayPal,New York,7
+249,45,2024-12-26,Sports,241.45,Credit Card,Philadelphia,9
+250,10,2025-02-09,Books,278.39,Apple Pay,Chicago,7
+251,74,2025-01-06,Food,316.66,PayPal,Los Angeles,1
+252,99,2024-11-15,Electronics,57.52,Apple Pay,New York,2
+253,49,2025-04-29,Clothing,221.27,PayPal,San Antonio,2
+254,14,2025-04-19,Home Goods,251.21,PayPal,Chicago,1
+255,51,2025-04-21,Books,457.33,Debit Card,Chicago,1
+256,19,2024-12-31,Electronics,330.89,Debit Card,Phoenix,9
+257,18,2025-04-07,Books,394.65,Credit Card,Philadelphia,4
+258,100,2025-04-17,Sports,217.77,Debit Card,Houston,3
+259,92,2025-01-07,Home Goods,239.81,Apple Pay,Chicago,6
+260,86,2025-03-14,Electronics,284.99,PayPal,Philadelphia,5
+261,65,2025-03-25,Beauty,45.05,Debit Card,Houston,2
+262,27,2025-04-09,Beauty,422.94,Debit Card,Chicago,6
+263,23,2025-03-01,Sports,150.56,Cash,Los Angeles,2
+264,96,2025-04-29,Food,415.86,PayPal,Los Angeles,10
+265,52,2024-12-18,Sports,234.5,PayPal,Houston,10
+266,34,2025-03-31,Books,141.26,Credit Card,Houston,2
+267,60,2025-04-30,Beauty,198.46,Apple Pay,Houston,7
+268,84,2025-03-19,Electronics,194.96,Cash,Philadelphia,6
+269,11,2025-01-23,Sports,112.13,Credit Card,San Antonio,8
+270,65,2025-01-29,Home Goods,157.58,PayPal,Chicago,9
+271,20,2025-03-18,Sports,119.49,Credit Card,Los Angeles,5
+272,16,2025-04-07,Food,304.77,Debit Card,New York,7
+273,48,2025-03-30,Clothing,220.77,Apple Pay,New York,6
+274,9,2025-02-08,Sports,25.62,Cash,San Antonio,6
+275,34,2025-03-08,Electronics,314.22,Cash,New York,6
+276,5,2025-02-26,Books,232.63,PayPal,Philadelphia,10
+277,64,2025-04-10,Electronics,285.59,PayPal,New York,9
+278,94,2024-11-30,Electronics,209.73,PayPal,New York,10
+279,52,2025-01-06,Books,300.08,PayPal,Houston,8
+280,41,2025-02-26,Electronics,151.04,Debit Card,Phoenix,3
+281,91,2024-11-26,Sports,332.86,Gift Card,Houston,1
+282,47,2025-03-13,Sports,121.48,Gift Card,Philadelphia,4
+283,55,2025-03-04,Electronics,213.7,Gift Card,Philadelphia,8
+284,75,2025-01-13,Home Goods,406.09,Apple Pay,Los Angeles,6
+285,8,2025-03-30,Sports,497.43,Debit Card,Phoenix,10
+286,80,2025-04-13,Books,445.61,Credit Card,New York,1
+287,17,2025-01-27,Books,487.96,PayPal,Phoenix,9
+288,98,2024-11-23,Clothing,218.93,Apple Pay,San Antonio,2
+289,10,2025-03-13,Clothing,132.12,Cash,San Antonio,6
+290,16,2024-11-25,Clothing,15.77,Debit Card,Chicago,1
+291,88,2024-12-20,Clothing,121.08,Credit Card,Houston,3
+292,76,2025-03-20,Sports,14.67,Apple Pay,New York,6
+293,34,2024-11-19,Electronics,207.8,Gift Card,Philadelphia,2
+294,6,2024-11-09,Beauty,76.05,Apple Pay,Phoenix,10
+295,67,2025-02-16,Books,290.32,PayPal,San Antonio,4
+296,63,2024-11-02,Food,38.03,Debit Card,New York,4
+297,4,2025-01-20,Sports,357.99,Debit Card,Los Angeles,4
+298,68,2025-01-20,Home Goods,268.21,Cash,Los Angeles,10
+299,65,2024-11-13,Electronics,176.73,PayPal,San Antonio,5
+300,98,2024-11-30,Beauty,296.71,Gift Card,New York,7
+301,99,2025-03-25,Electronics,327.03,PayPal,Philadelphia,2
+302,50,2025-01-31,Home Goods,291.9,Debit Card,Chicago,9
+303,86,2025-02-25,Clothing,187.29,Cash,Philadelphia,7
+304,78,2025-01-22,Food,134.42,Cash,Phoenix,1
+305,3,2024-12-15,Beauty,309.66,PayPal,Los Angeles,3
+306,35,2025-04-25,Electronics,443.96,Cash,New York,4
+307,72,2024-11-27,Sports,397.62,Debit Card,Philadelphia,5
+308,26,2024-11-24,Sports,477.93,Apple Pay,Los Angeles,5
+309,27,2024-12-03,Clothing,338.85,Gift Card,New York,2
+310,40,2025-01-02,Sports,340.84,Cash,Houston,5
+311,4,2025-03-14,Beauty,494.51,Gift Card,Philadelphia,9
+312,99,2025-01-07,Electronics,109.9,Apple Pay,Phoenix,7
+313,85,2024-11-27,Sports,271.96,Cash,Phoenix,1
+314,81,2024-11-09,Electronics,470.65,Debit Card,San Antonio,4
+315,20,2024-12-29,Sports,45.8,Gift Card,New York,10
+316,64,2024-12-11,Electronics,181.78,Gift Card,Houston,6
+317,63,2024-12-19,Clothing,207.27,Gift Card,Los Angeles,8
+318,14,2025-04-04,Books,498.89,Gift Card,Los Angeles,6
+319,93,2025-03-08,Food,442.14,Debit Card,New York,3
+320,94,2025-03-23,Food,319.28,Debit Card,San Antonio,9
+321,28,2025-04-19,Books,277.36,Apple Pay,Philadelphia,6
+322,5,2025-01-26,Clothing,205.28,Cash,Philadelphia,10
+323,7,2024-11-24,Clothing,490.98,Apple Pay,Houston,2
+324,41,2024-11-09,Beauty,63.98,Gift Card,Philadelphia,10
+325,87,2025-01-16,Electronics,423.66,Gift Card,Los Angeles,6
+326,79,2025-02-03,Beauty,412.4,Debit Card,New York,7
+327,51,2024-11-27,Electronics,150.68,PayPal,San Antonio,9
+328,16,2025-02-06,Sports,123.13,PayPal,San Antonio,9
+329,63,2025-03-29,Home Goods,241.56,PayPal,Los Angeles,1
+330,38,2025-02-15,Sports,193.01,Debit Card,San Antonio,5
+331,39,2025-02-19,Clothing,430.75,Gift Card,San Antonio,4
+332,44,2025-02-16,Books,492.81,Apple Pay,Chicago,1
+333,25,2024-12-17,Electronics,258.01,Cash,Philadelphia,3
+334,47,2024-12-20,Clothing,361.66,Debit Card,Chicago,6
+335,40,2024-11-16,Beauty,464.54,Cash,Chicago,8
+336,83,2025-03-18,Beauty,69.72,Debit Card,New York,5
+337,88,2025-02-27,Clothing,179.15,Cash,Chicago,3
+338,37,2024-12-02,Books,359.93,Cash,Houston,1
+339,74,2024-11-07,Books,379.34,Cash,Los Angeles,6
+340,98,2024-11-07,Clothing,24.46,Apple Pay,Philadelphia,6
+341,46,2025-03-08,Books,38.14,Debit Card,Los Angeles,10
+342,33,2025-01-13,Beauty,450.79,Apple Pay,San Antonio,1
+343,55,2025-02-21,Home Goods,222.17,PayPal,Houston,5
+344,15,2024-12-14,Home Goods,162.87,Cash,Houston,1
+345,46,2024-12-14,Sports,429.0,Apple Pay,Houston,2
+346,14,2025-03-28,Food,439.5,Apple Pay,New York,1
+347,17,2025-03-02,Home Goods,480.64,Credit Card,San Antonio,9
+348,49,2024-11-06,Clothing,448.75,Gift Card,Los Angeles,9
+349,73,2024-12-31,Clothing,281.22,Apple Pay,New York,7
+350,82,2025-01-24,Sports,222.57,Apple Pay,Houston,2
+351,15,2024-12-06,Electronics,443.15,Credit Card,Philadelphia,5
+352,3,2025-02-19,Books,444.04,Apple Pay,San Antonio,5
+353,17,2024-11-27,Clothing,326.26,Debit Card,Houston,9
+354,76,2025-02-07,Beauty,204.74,Cash,New York,4
+355,64,2024-11-07,Home Goods,35.04,Apple Pay,Los Angeles,8
+356,3,2025-01-08,Clothing,357.36,Debit Card,New York,2
+357,23,2025-03-02,Sports,262.69,Cash,Los Angeles,9
+358,52,2024-12-06,Sports,494.63,Apple Pay,Los Angeles,2
+359,36,2025-03-04,Sports,239.98,Debit Card,San Antonio,3
+360,13,2025-03-12,Clothing,355.15,Credit Card,Los Angeles,3
+361,70,2025-04-23,Food,237.34,Cash,New York,8
+362,16,2024-12-01,Electronics,73.27,Credit Card,Houston,10
+363,91,2025-01-06,Home Goods,34.66,Gift Card,Philadelphia,1
+364,24,2024-12-15,Electronics,417.45,PayPal,Los Angeles,3
+365,66,2025-01-04,Home Goods,91.89,Cash,Los Angeles,3
+366,56,2024-12-08,Beauty,223.81,Gift Card,Philadelphia,6
+367,79,2025-02-14,Books,97.47,Credit Card,Phoenix,3
+368,82,2024-11-17,Clothing,364.1,Cash,Houston,9
+369,58,2025-02-02,Food,123.75,Gift Card,Los Angeles,4
+370,70,2024-11-17,Food,283.66,Debit Card,Houston,8
+371,85,2025-02-08,Electronics,489.3,Debit Card,Philadelphia,3
+372,72,2024-12-03,Food,330.79,Cash,Houston,6
+373,87,2024-11-07,Electronics,273.28,Gift Card,San Antonio,10
+374,11,2024-12-27,Electronics,149.24,Apple Pay,Los Angeles,6
+375,69,2024-12-11,Books,374.07,Apple Pay,Los Angeles,5
+376,52,2025-04-03,Sports,276.07,Credit Card,San Antonio,5
+377,94,2024-12-04,Home Goods,449.77,Apple Pay,New York,9
+378,85,2025-02-12,Sports,415.29,Cash,Los Angeles,3
+379,45,2025-01-31,Electronics,432.58,Credit Card,Los Angeles,4
+380,62,2025-02-14,Beauty,50.62,Cash,New York,10
+381,18,2025-04-21,Electronics,207.7,Cash,New York,4
+382,1,2025-03-25,Food,299.3,Gift Card,Philadelphia,3
+383,16,2024-11-17,Clothing,48.47,Credit Card,Philadelphia,6
+384,3,2025-02-05,Home Goods,280.66,Cash,Los Angeles,9
+385,79,2024-12-31,Beauty,350.67,Apple Pay,Houston,9
+386,58,2024-11-10,Sports,479.48,Cash,Los Angeles,10
+387,71,2024-12-23,Beauty,124.5,Debit Card,Philadelphia,1
+388,91,2024-12-23,Clothing,471.3,Gift Card,Los Angeles,3
+389,30,2025-03-30,Clothing,371.9,Gift Card,San Antonio,1
+390,82,2025-01-22,Home Goods,403.72,Debit Card,New York,6
+391,87,2024-12-10,Home Goods,90.31,Gift Card,San Antonio,7
+392,69,2025-02-13,Home Goods,18.37,Credit Card,Houston,7
+393,37,2025-01-13,Beauty,192.46,Cash,Chicago,7
+394,54,2024-11-24,Electronics,48.27,Cash,Phoenix,1
+395,50,2025-03-06,Books,143.04,Apple Pay,Philadelphia,5
+396,58,2024-11-07,Beauty,230.63,PayPal,Philadelphia,8
+397,28,2025-04-14,Food,358.03,Apple Pay,Chicago,4
+398,36,2025-04-02,Home Goods,453.98,PayPal,San Antonio,9
+399,9,2024-12-05,Clothing,483.32,Credit Card,Houston,9
+400,46,2025-04-05,Sports,126.11,Credit Card,Phoenix,10
+401,69,2024-11-12,Books,493.62,Debit Card,Houston,2
+402,10,2024-11-10,Beauty,124.12,Gift Card,Phoenix,9
+403,84,2024-11-27,Beauty,175.51,Cash,New York,4
+404,42,2025-04-06,Clothing,288.91,PayPal,Phoenix,4
+405,74,2025-01-08,Electronics,54.96,Credit Card,San Antonio,1
+406,89,2025-04-20,Electronics,355.89,Cash,New York,10
+407,29,2025-04-22,Electronics,252.05,Apple Pay,Philadelphia,8
+408,87,2024-12-21,Clothing,396.17,Gift Card,New York,10
+409,45,2024-11-27,Sports,99.15,Cash,San Antonio,6
+410,83,2025-03-01,Beauty,190.49,Credit Card,Los Angeles,10
+411,59,2024-12-20,Clothing,151.67,Apple Pay,San Antonio,10
+412,12,2025-02-16,Sports,485.83,Gift Card,Los Angeles,1
+413,97,2025-04-19,Beauty,317.94,Debit Card,Houston,5
+414,13,2025-04-05,Home Goods,224.15,Credit Card,Phoenix,8
+415,18,2025-03-07,Home Goods,335.76,PayPal,Philadelphia,10
+416,27,2025-03-10,Beauty,49.92,Cash,San Antonio,7
+417,54,2024-12-02,Home Goods,474.11,Gift Card,Chicago,1
+418,35,2025-01-29,Home Goods,320.38,Apple Pay,Chicago,7
+419,48,2024-12-22,Home Goods,463.01,PayPal,Chicago,5
+420,4,2025-04-28,Beauty,127.9,PayPal,San Antonio,2
+421,76,2025-02-16,Sports,170.16,Apple Pay,Chicago,7
+422,83,2024-11-24,Sports,27.67,Credit Card,Chicago,6
+423,62,2025-02-02,Electronics,191.34,Credit Card,San Antonio,3
+424,100,2025-02-15,Sports,285.52,PayPal,Philadelphia,6
+425,20,2025-04-18,Home Goods,28.85,Debit Card,Los Angeles,3
+426,63,2024-11-10,Food,147.77,PayPal,Houston,7
+427,15,2025-03-09,Electronics,323.24,Apple Pay,Houston,1
+428,89,2025-01-14,Books,258.52,Credit Card,Los Angeles,4
+429,82,2024-12-25,Electronics,444.16,Gift Card,San Antonio,8
+430,61,2025-01-03,Sports,347.95,Credit Card,Phoenix,7
+431,60,2024-11-04,Home Goods,284.71,Debit Card,Phoenix,9
+432,7,2024-11-27,Books,369.81,Credit Card,Los Angeles,3
+433,45,2024-11-14,Sports,200.45,Cash,Chicago,10
+434,93,2025-02-25,Electronics,211.21,Cash,Chicago,4
+435,51,2024-12-07,Beauty,478.64,Cash,San Antonio,4
+436,2,2025-04-07,Electronics,234.4,Apple Pay,Phoenix,3
+437,22,2025-02-03,Sports,185.35,Apple Pay,Houston,10
+438,81,2024-12-26,Home Goods,54.81,Credit Card,New York,2
+439,59,2024-12-12,Clothing,42.1,Apple Pay,San Antonio,4
+440,69,2024-12-13,Home Goods,221.23,Credit Card,Philadelphia,8
+441,98,2025-04-16,Beauty,401.24,Cash,Phoenix,10
+442,27,2024-12-22,Electronics,334.39,PayPal,Houston,4
+443,47,2024-12-08,Beauty,169.36,Credit Card,New York,10
+444,47,2025-02-17,Books,441.03,Debit Card,Houston,6
+445,89,2025-01-25,Home Goods,164.67,PayPal,Houston,7
+446,61,2024-11-16,Home Goods,433.38,PayPal,Houston,9
+447,53,2024-12-10,Beauty,158.56,PayPal,New York,8
+448,71,2025-03-06,Clothing,401.98,Gift Card,Houston,4
+449,32,2025-03-13,Beauty,432.05,Gift Card,San Antonio,8
+450,28,2025-02-05,Home Goods,87.08,Gift Card,San Antonio,1
+451,41,2025-04-29,Beauty,282.53,Credit Card,Chicago,7
+452,10,2025-03-27,Books,395.39,Apple Pay,Chicago,5
+453,37,2025-03-08,Beauty,197.25,Debit Card,Los Angeles,2
+454,53,2025-04-23,Home Goods,334.9,Cash,Los Angeles,2
+455,32,2025-04-04,Food,282.57,Credit Card,New York,5
+456,94,2025-03-02,Books,47.05,PayPal,San Antonio,7
+457,37,2024-12-25,Home Goods,336.72,Credit Card,Chicago,8
+458,53,2025-02-23,Books,161.71,Gift Card,Houston,1
+459,43,2025-01-07,Home Goods,166.33,Debit Card,Phoenix,8
+460,62,2025-04-04,Home Goods,328.03,Credit Card,San Antonio,8
+461,87,2025-02-18,Home Goods,120.14,PayPal,Los Angeles,3
+462,46,2024-12-22,Books,336.81,Debit Card,Houston,4
+463,98,2024-11-04,Electronics,307.16,Debit Card,Phoenix,8
+464,51,2025-02-08,Electronics,129.04,Apple Pay,Philadelphia,9
+465,90,2024-12-04,Books,249.22,Debit Card,Phoenix,6
+466,4,2025-04-18,Sports,29.67,PayPal,Philadelphia,2
+467,59,2025-04-28,Food,370.02,Gift Card,Phoenix,5
+468,37,2024-11-13,Electronics,492.41,Debit Card,Los Angeles,7
+469,32,2025-02-02,Beauty,247.91,Apple Pay,Houston,10
+470,47,2024-11-09,Beauty,140.22,PayPal,Phoenix,10
+471,20,2024-11-09,Books,426.44,Gift Card,Houston,10
+472,94,2025-01-26,Clothing,339.62,Gift Card,Phoenix,7
+473,25,2025-04-30,Electronics,145.82,Apple Pay,San Antonio,5
+474,63,2024-11-14,Books,406.49,Credit Card,New York,9
+475,95,2025-01-12,Food,48.12,Gift Card,Los Angeles,6
+476,63,2025-02-12,Home Goods,376.88,PayPal,Phoenix,7
+477,82,2024-11-08,Home Goods,194.68,Debit Card,Phoenix,5
+478,83,2024-12-22,Electronics,22.97,Debit Card,Los Angeles,3
+479,29,2025-04-30,Books,355.84,Gift Card,Los Angeles,3
+480,9,2025-01-14,Books,429.49,Apple Pay,Houston,4
+481,39,2025-04-20,Clothing,137.94,Credit Card,Phoenix,8
+482,18,2024-11-21,Books,482.71,Debit Card,Houston,3
+483,32,2025-04-06,Sports,276.07,Gift Card,New York,6
+484,28,2024-12-26,Beauty,385.2,Credit Card,New York,8
+485,89,2025-02-20,Books,486.65,Credit Card,Phoenix,4
+486,16,2025-03-18,Home Goods,146.66,Gift Card,San Antonio,5
+487,33,2025-04-24,Food,92.33,Apple Pay,Phoenix,6
+488,9,2025-04-29,Sports,309.5,Gift Card,Los Angeles,2
+489,26,2025-02-22,Clothing,69.67,PayPal,Phoenix,5
+490,19,2024-12-29,Electronics,273.94,Credit Card,San Antonio,9
+491,61,2025-01-29,Home Goods,195.86,Apple Pay,Chicago,6
+492,77,2025-03-31,Food,184.58,Debit Card,Chicago,10
+493,68,2024-12-12,Electronics,28.64,Apple Pay,Houston,10
+494,22,2025-01-19,Beauty,369.34,Apple Pay,New York,5
+495,50,2025-02-22,Food,113.88,Apple Pay,Phoenix,4
+496,9,2025-01-10,Sports,325.73,PayPal,Houston,1
+497,23,2025-01-29,Beauty,270.62,Debit Card,Chicago,8
+498,40,2024-11-15,Food,142.05,Gift Card,San Antonio,10
+499,79,2024-11-27,Electronics,272.16,Debit Card,San Antonio,6
+500,41,2024-12-16,Electronics,116.75,Debit Card,Houston,1
