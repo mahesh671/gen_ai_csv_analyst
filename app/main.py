@@ -32,9 +32,7 @@ def call_agent(session_id: str, query: str) -> str:
     response = agent.invoke(
         {
             'messages': query,
-            'dataframe': dfs_helper.formated_dataframes(),
-            'is_last_step': {"max_steps": 10},
-            'remaining_steps': 10
+            'dataframe': dfs_helper.formated_dataframes()
         }, 
         config={'configurable': {'thread_id': session_id}}
     )
